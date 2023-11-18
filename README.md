@@ -1,7 +1,8 @@
 # 💫 Sobre mim:
-Formado em Análise e Desenvolvimento de Sistemas. Apaixonado por tecnologia e por dados.
-
-Moro atualmente em Maringá - PR, Brasil.
+Graduação em Análise e Desenvolvimento de Sistemas. 
+Pós em Tecnologias da Informação e Comunicação na Educação.
+Pós em Educação Profissional e Tecnológica.
+Maringá - PR, Brasil.
 
 ## 🌐 Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/flavio-faria97/)  [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/flavio_far) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+44+991461237) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:lefravious@gmail.com)
